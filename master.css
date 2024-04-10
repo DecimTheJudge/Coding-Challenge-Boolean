@@ -1,0 +1,119 @@
+/* sfondo */
+
+.bg{
+  width: 100%;
+
+}
+
+/*  font */
+
+*{
+  font-family: "Verdana", sans-serif;
+
+}
+
+
+/* Contenitore */
+
+#contenitore
+{
+    opacity: 50%;
+    position: absolute;
+    top: 50px;
+    left: 260px;
+    background-color: black;
+    width: 1300px;
+    height: 800px;
+    border-radius: 15px;
+}
+
+/* Lim */
+
+#Logo
+{
+
+    position: absolute;
+    top: 130px;
+    left: 780px;
+    width: 230px;
+    height: 110px;
+
+  }
+
+/* Titolo */
+
+  #Titolo{
+      color:#00ff00;
+      text-align: center;
+      margin: auto;
+      position: absolute;
+      top: 250px;
+      left: 550px;
+      width: 800px;
+      height: 115px;
+    }
+
+    /* Navigazione */
+    
+    nav{
+      text-align:center;
+      background-color:#00ff00;
+      position: absolute;
+      top: 300px;
+      left: 360px;
+      width: 1000px;
+      height: 30px;
+      padding-top: 10px;
+
+    }
+
+    /* Monopattino */
+
+    .Monopattino{
+      color: White;
+      position:absolute;
+      top: 350px;
+      left: 360px;
+      width: 500px;
+      height: 10px;
+      line-height:1.1;
+
+    }
+
+    /* rows (sinistra e destra) */
+    .row-left, .row-right{
+      display: inline-block;
+
+    }
+
+
+
+    /* Barra di carica Gino22 */
+    .BarraGino22{
+      background-color:#FFC032;
+      width:350px;
+      height: 30px;
+      border-radius: 5px;
+
+
+    }
+
+    /* Barra di carica Mike24 */
+    .BarraMike24{
+      background-color:#00ff00;
+      width:650px;
+      height: 30px;
+      border-radius: 5px;
+
+
+    }
+
+    /* Barra di carica Fede154 */
+    .BarraFede154{
+      background-color:#C51D34;
+      width:150px;
+      height: 30px;
+      border-radius: 5px;
+
+
+    }
